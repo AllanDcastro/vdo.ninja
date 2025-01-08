@@ -1,7 +1,7 @@
 :root {
 	/* Discord Greys - Dark to Lighter */
-	--discord-grey-0: #red;
-	--discord-grey-1: #red;
+	--discord-grey-0: #ff0000;
+	--discord-grey-1: #ff0000;
 	--discord-grey-2: #232428;
 	--discord-grey-3: #2c2c2d;
 	--discord-grey-4: #2e3035;
@@ -68,7 +68,7 @@
 	/* Original colors */
 	--background-color: #ff0000;
 	--dark-background-color: #02050c;
-	--container-color: #blue;
+	--container-color: #ff0000;
 	--button-color: #2A2A2A;
 	--blue-accent: #4a4c63;
 	--red-accent: #553737;
